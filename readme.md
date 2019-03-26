@@ -1,0 +1,1 @@
+This repo is homework 1 on EPAM java external courses 2019
